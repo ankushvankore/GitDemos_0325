@@ -2,3 +2,4 @@ We are creating home page.
 Adding new line
 I want to add only this file to staging
 Adding one more line
+Welcome to Git
