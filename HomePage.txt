@@ -3,3 +3,5 @@ Adding new line
 I want to add only this file to staging
 Adding one more line
 Welcome to Git
+
+Its 11.53 AM
