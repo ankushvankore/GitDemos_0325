@@ -7,3 +7,5 @@ Welcome to Git
 Its 11.53 AM
 
 Adding this file to GitHub
+
+Now adding Add to cart page
