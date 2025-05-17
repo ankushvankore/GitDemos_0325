@@ -11,4 +11,9 @@ Adding this file to GitHub
 Now adding Add to cart page
 
 Adding some code from GitHUb
+<<<<<<< HEAD
 Adding some code via VSCode
+=======
+
+Making some changes from GitHub
+>>>>>>> 2b4383d141a384abb1cb897466001e747e751f58
