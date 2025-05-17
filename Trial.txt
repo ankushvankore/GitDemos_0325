@@ -1,2 +1,4 @@
 This is trial file
 Adding directly to Git skipping Staging
+
+Making changes
