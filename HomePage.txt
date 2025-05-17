@@ -11,3 +11,5 @@ Adding this file to GitHub
 Now adding Add to cart page
 
 Adding some code from GitHUb
+
+Making some changes from GitHub
